@@ -22,9 +22,9 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 
 
 
-global.devs = "254728782591" // Developer Contact
+global.devs = "2348077549692" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "admin";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254728782591";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2348077549692";
 
 
 
@@ -66,10 +66,10 @@ module.exports = {
   VERSION : process.env.VERSION || "V.1.2.8",
   caption : process.env.CAPTION || "©²⁰²⁴ ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ 』```", //*『sᴜʙsᴄʀɪʙᴇ • ɢɪғᴛᴇᴅ ᴛᴇᴄʜ』*\n https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o"),
  
-  author : process.env.PACK_AUTHER|| "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
-  packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
-  ownername:process.env.OWNER_NAME|| "It's GiftedTech",
+  author : process.env.PACK_AUTHER|| "༒Fîķıýøýø༒",
+  packname: process.env.PACK_NAME || "💞💗💗",
+  botname : process.env.BOT_NAME  || "༒Fîķıýøýø༒ md",
+  ownername:process.env.OWNER_NAME|| "༒Fîķıýøýø༒",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
